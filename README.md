@@ -1,7 +1,8 @@
 # AWS_Transit-VPC
-Documentation for Creating Transit VPC Setup
+Created Transit VPC Setup and documented the setup
 
 📝Transit Gateway
+
 •	Implementing Three-Tier design that separates Web-Tier, App-Tier and DB-Tier using EC2, ALB.
 
 •	Transit Gateway in AWS is used to connect multiple VPC connections together
